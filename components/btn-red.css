@@ -1,0 +1,17 @@
+
+
+
+.btn-red {
+	text-decoration: none;
+	background-color: #EB4747;
+	color: whitesmoke;
+	padding: 10px 24px;
+	border-radius: 6px;
+}
+
+.btn-red:hover {
+	background-color: #EDDBC0;
+	color: whitesmoke;
+	transform-origin: 0,4s;
+	transition: 0.5s;
+}

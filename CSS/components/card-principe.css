@@ -1,0 +1,22 @@
+
+.card-principe{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #F8EDE3;
+	background: linear-gradient(-220deg, #F8EDE3 0%, whitesmoke 75%);
+	padding: 8px;
+	box-shadow: 0px 20px 30px rgba(30, 30, 30, 0.5);
+	border-radius: 8px;
+	margin: 10px;
+	flex-basis: 250px;
+	flex-grow: 1;
+}
+
+
+.card-principe h2 {
+	flex-grow: 1;
+	margin-bottom: 24px;
+}
+
+

@@ -1,0 +1,52 @@
+@import url("components/banner.css");
+@import url("components/card-principe.css");
+@import url("components/container.css");
+@import url("components/card-grid.css");
+@import url("components/card-eve.css");
+@import url("components/btn-red.css");
+@import url("components/header.css");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+
+h1	{
+	font-family: Bebas Neue;
+	text-align: center;
+}
+
+h2	{
+	font-family: Bebas Neue;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 700;
+	background-color: whitesmoke;
+	border-radius: 6px;
+	color: #EB4747;
+}
+
+li {
+	list-style: none;
+	text-align: center;
+	font-family: Bebas Neue;
+
+}
+
+p {
+	font-family: Lora;
+	font-size: 12px;
+}
+
+ul {
+	padding: 0px;
+}
+
+a {
+	text-decoration: none;
+	font-family: Bebas Neue;
+}
+
+a:hover {
+	color : mediumblue;
+}
+
